@@ -1,0 +1,2 @@
+#!/bin/bash
+touch $(<filebest.txt) | echo -e "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
